@@ -40,7 +40,7 @@ export function AboutSection() {
             </div>
             <div className="p-6 rounded-lg bg-background border border-border">
               <div className="text-3xl font-bold text-accent mb-2">Founder</div>
-              <p className="text-sm text-muted-foreground">Onyx Technologies</p>
+              <p className="text-sm text-muted-foreground">Zylo Technologies</p>
             </div>
             <div className="p-6 rounded-lg bg-background border border-border">
               <div className="text-3xl font-bold text-accent mb-2">CTF</div>

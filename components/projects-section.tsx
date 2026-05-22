@@ -21,6 +21,7 @@ const projects: Project[] = [
       "Full-stack room rental platform built with the MERN stack where users can browse listings, view room details, manage bookings, and authenticate securely.",
     technologies: ["MongoDB", "Express", "React", "Node.js", "JWT", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
     github: "https://github.com/GOBI-S/Room-Rent-Web-App-MERN-",
+    live: "https://renting.gobi.page/",
   },
   {
     id: "2",
@@ -29,6 +30,7 @@ const projects: Project[] = [
       "Security-focused web application that scans for common web vulnerabilities and includes a custom Web Application Firewall (WAF) to detect and block attacks such as SQL injection and XSS.",
     technologies: ["Node.js", "Express", "MongoDB", "Security", "WAF"],
     github: "https://github.com/GOBI-S/Vulnerability-Scanner-Web-Application-Firewall",
+    live: "",
   },
   
   {
@@ -38,6 +40,7 @@ const projects: Project[] = [
       "Weather-based notification system that alerts users about temperature or weather condition changes using a custom API and real-time data handling.",
     technologies: ["Next.js", "TypeScript", "Node.js", "API Integration", "JavaScript"],
     github: "https://github.com/GOBI-S/weather-frontend",
+    live:"https://weathermail.gobi.page/"
   },
   {
     id: "4",
@@ -46,6 +49,7 @@ const projects: Project[] = [
       "Interactive 3D solar system simulation built with Three.js featuring animated planetary orbits, lighting effects, and camera controls for real-time exploration.",
     technologies: ["JavaScript", "Three.js", "WebGL", "3D Animation"],
     github: "https://github.com/GOBI-S/Soloarsystem",
+    live:"https://solar.gobi.page/",
   },
 ]
 
